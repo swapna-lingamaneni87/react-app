@@ -7,10 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <p>
+        <p2>
+       
           Welcome to Rekonsys
           
-        </p>
+        </p2>
         <a
           className="App-link"
           href="https://reactjs.org"
