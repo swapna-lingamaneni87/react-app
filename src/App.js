@@ -9,7 +9,7 @@ function App() {
         
         <p2>
        
-          Hi Swapna, Welcome to Rekonsys
+          Hi Swapna, Welcome to Rekonsys Pvt Tech
           
         </p2>
         <a
